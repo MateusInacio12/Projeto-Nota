@@ -1,0 +1,37 @@
+.bg-color {
+    height: 200px;
+    background-color: rgb(98, 159, 238);
+    color: bisque;
+}
+
+
+.btn-entrar{
+    background-color: rgb(98, 159, 238);
+    color: bisque;
+}
+
+.btn-entrar:hover{
+    background-color: grey;
+    color:black;
+    border: 1px;
+}
+
+.btn-cadastrar{
+    background-color: rgb(98, 159, 238);
+    color: bisque;
+}
+
+.btn-cadastrar:hover{
+    background-color: grey;
+    color:black;
+    border: 1px;
+}
+
+footer {
+    background-color:  rgb(98, 159, 238);
+    color: #fff;
+    text-align:center;
+    height:240px;
+    position: relative;
+    
+} 
